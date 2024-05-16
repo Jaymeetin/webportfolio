@@ -1,0 +1,98 @@
+#landing {
+	background: 
+		linear-gradient(
+
+			rgba(0, 0, 0, 0.59),
+			rgba(0, 0, 0, 0.59)
+			),
+
+		url("./images/venti-views-bS5OwMjMc1I-unsplash.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+
+	;
+}
+#banner-header {
+	font-family: 'Oswald';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 50px;
+	line-height: 72px;
+	/* or 112% */
+
+	display: flex;
+	align-items: flex-end;
+	letter-spacing: -0.02em;
+
+	color: #FFFFFF;
+}
+
+#banner-text {
+	font-family: 'Oswald';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 30px;
+
+	color: #FFFFFF;
+}
+
+ .navbar-brand img {
+            max-height: 40px;
+        }
+
+        body {
+                    font-family: 'Oswald', sans-serif;
+                    background-color: #f8f9fa; /* Light gray background */
+                    color: #343a40; /* Dark gray text */
+                }
+                .navbar {
+                    background-color: #2b5876; /* Accent blue navbar */
+                }
+                .navbar-brand img {
+                    max-height: 50px;
+                }
+                #landing {
+                    color: #fff; /* White text */
+                    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+                    padding: 100px 0;
+                }
+                .about-card {
+                    background-color: #fff; /* White background for about section */
+                    padding: 20px;
+                    border-radius: 10px;
+                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                }
+                #tools {
+                    background-color: #2b5876; 
+                    padding: 50px 0;
+                }
+                .tool-img {
+                    margin-bottom: 20px;
+                }
+                #contact form {
+                    padding: 20px;
+                    border-radius: 10px;
+                    background-color: #fff; /* White background for contact form */
+                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                }
+                #footer {
+                    background-color: #2b5876 !important; /* Accent blue footer */
+                    color: #fff; /* White text */
+                    text-align: center;
+                    padding: 20px 0;
+                }
+
+                #projects {
+  display: flex;
+  align-items: stretch;
+}
+
+.card {
+  
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 5px;
+    }
+}
+
